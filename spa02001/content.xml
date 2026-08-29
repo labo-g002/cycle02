@@ -18,7 +18,7 @@
   </odeResource>
   <odeResource>
     <key>exe_version</key>
-    <value>4.0.1</value>
+    <value>4.0.3</value>
   </odeResource>
 </odeResources>
 <odeProperties>
@@ -44,11 +44,11 @@
   </odeProperty>
   <odeProperty>
     <key>pp_exelearning_version</key>
-    <value>v4.0.1</value>
+    <value>v4.0.3</value>
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1782657663293</value>
+    <value>1788018465492</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
